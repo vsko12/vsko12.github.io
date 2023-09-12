@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Blackberry vsko"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Unlock productivity and privacy with the iconic BlackBerry - your trusted companion for modern communication"
+  bio    : "Unlock productivity with the iconic BlackBerry - your trusted companion for modern communication"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
