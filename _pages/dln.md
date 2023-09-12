@@ -8,7 +8,7 @@ author_profile: false
 
 
 
-As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create content in the digital realm. This narrative explores my evolving digital literacy journey, the strategies I employ in my daily and academic life, and my aspirations for what lies ahead.
+At my senior year at NYUAD, I am taking on a new academic challenge my last fall semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create content in the digital realm. This narrative broadens my perspective on digital literacy, the strategies I employ in my daily and academic life, and my aspirations for what lies ahead.
 
 Before enrolling in this course, my digital literacy skills were primarily centered around the basics. I knew how to use social media platforms, compose emails, and write research papers using Microsoft Word. My content creation process revolved around the simple tools available on my smartphone, and I hardly ventured beyond that comfort zone. Socially, I interacted with friends and classmates on Instagram, Snapchat, and Twitter, but I never delved into the deeper aspects of online communities or digital communication.
 
