@@ -1,8 +1,7 @@
---- title: “chat” 
-
-	permalink: /chat/ 
-	author_profile: false 
-
+---
+title: "gpt"
+permalink: /dln/
+author_profile: false
 ---
 
 
