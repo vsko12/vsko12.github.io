@@ -1,5 +1,5 @@
 ---
-title: "gpt"
+title: "ChatGPT together with Blackberry vsko presents... "
 permalink: /dln/
 author_profile: false
 ---
