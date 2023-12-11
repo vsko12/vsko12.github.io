@@ -30,11 +30,11 @@ During the process of modeling the data we identified specific data available in
 
 The next task was to extract these data points from the source material. Since the Year Book had already undergone optical character recognition (OCR), the text could be converted into a digital format that could be manipulated. We created a spreadsheet with columns representing each data aspect and manually filled it.
 
-**Column 1:** Rank
-**Column 2:** City
-**Column 3:** State
-**Column 4:** Number of Stations Reporting
-**Column 5:** Time Sales
+- **Column 1:** Rank
+- **Column 2:** City
+- **Column 3:** State
+- **Column 4:** Number of Stations Reporting
+- **Column 5:** Time Sales
 
 ### Step 3: Enriching the data and Geocoding
 
@@ -50,7 +50,7 @@ The spreadsheet with columns representing each data aspect for radio broadcastin
 
 ### Step 4: Visualizing the data. Discussion and Interpretation
 
-After geocoding and adding contextual metadata to our dataset, we used *Kepler.gl*, a visualization tool that provides mapping capabilities to create a map that spatially represents the data. We mapped the geographic coordinates of each radio and television market.
+After geocoding and adding contextual metadata to our dataset, we used [*Kepler*](https://kepler.gl/), a visualization tool that provides mapping capabilities to create a map that spatially represents the data. We mapped the geographic coordinates of each radio and television market.
 
 #### Results
 The visual representation of the data from Kepler enabled us to identify patterns, trends, and anomalies within the data. 
@@ -91,4 +91,5 @@ For both television and radio, the Midwest and rural areas might show lighter po
 The regional differences that are specific to either radio or television may be influenced by several different factors such as local preferences, the presence of strong local stations, or regional advertising spending.
 
 For businesses in the television and radio broadcast industry, this visualization could have been instrumental in targeting advertising campaigns, allocating resources, and strategizing market penetration. It shows where the market is strongest and where there might be potential for growth.
+
 
